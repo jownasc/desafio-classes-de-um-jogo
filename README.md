@@ -1,5 +1,7 @@
 # Projeto: Jogo de Heróis
 
+Desafio concluído com sucesso no DIO GTF Start 6! 🚀💪 Pronto para novos desafios e aprendizados!
+
 ## Descrição
 
 Este projeto consiste em um jogo de aventura onde você pode criar heróis com diferentes tipos e métodos de ataque. A classe `Heroi` representa um herói e possui propriedades como nome, idade e tipo, além de um método que exibe como o herói ataca.
